@@ -12,7 +12,7 @@ The following Selenium Docker images are as small as possible and only contain S
 | Docker tag                        | Debian from   | Python from    | Build from                                |
 | --------------------------------- | ------------- | ---------------| ----------------------------------------- |
 | `latest`                          | Debian Buster | Python 3.10.6  | Latest stable Selenium version            |
-| `4.4.3`                           | Debian Buster | Python 3.10.6  | Latest stable Selenium 4.4.3 version      |
+| `4.4.3`                           | Debian Buster | Python 3.10.6  | Selenium 4.4.3 version                    |
 
 
 ## Docker run commands
