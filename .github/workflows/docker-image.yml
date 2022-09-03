@@ -2,7 +2,7 @@ name: Docker Image CI
 on: [push]
 
 env:
-  TAG_NAME: latest
+  TAG_NAME: 4.4.3
   ARTIFACT_NAME: selenium-chrome
   IMAGE_NAME: ${{ secrets.DOCKER_USERNAME }}/selenium-chrome
 

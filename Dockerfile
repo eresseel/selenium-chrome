@@ -15,4 +15,4 @@ RUN apt-get install -yqq unzip && \
     unzip /tmp/chromedriver.zip chromedriver -d /usr/local/bin/
 
 # install selenium
-RUN pip install selenium
+RUN pip install selenium==4.4.3
