@@ -4,7 +4,7 @@ on: [push]
 env:
   TAG_NAME: latest
   ARTIFACT_NAME: selenium-chrome
-  IMAGE_NAME: ${{ secrets.DOCKER_USERNAME }}/${{ env.ARTIFACT_NAME }}
+  IMAGE_NAME: ${{ secrets.DOCKER_USERNAME }}/selenium-chrome
 
 jobs:
   build:
