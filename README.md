@@ -1,4 +1,4 @@
-# selenium-chrome-image
+# selenium-chrome-container-image
 
 Selenium is a suite of tools for automating web browsers.
 
